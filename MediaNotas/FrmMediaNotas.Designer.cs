@@ -151,7 +151,7 @@
             this.Controls.Add(this.txtBox2);
             this.Controls.Add(this.txtBox1);
             this.Name = "FrmMediaNotas";
-            this.Text = "Média de notas";
+            this.Text = "Média das notas";
             this.Controls.SetChildIndex(this.txtBoxPai, 0);
             this.Controls.SetChildIndex(this.txtBox1, 0);
             this.Controls.SetChildIndex(this.txtBox2, 0);

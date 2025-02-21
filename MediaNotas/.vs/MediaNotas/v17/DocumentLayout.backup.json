@@ -1,13 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fkrf\\Documents\\Visual Studio 2022\\Repo\\MediaNotas\\",
+  "WorkspaceRootPath": "C:\\Users\\fkrf\\Documents\\Visual Studio 2022\\Repo\\POO2\\MediaNotas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3AB54DBA-EFA3-4682-8E1F-E13C19B63A25}|MediaNotas.csproj|c:\\users\\fkrf\\documents\\visual studio 2022\\repo\\medianotas\\frmmedianotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AB54DBA-EFA3-4682-8E1F-E13C19B63A25}|MediaNotas.csproj|solutionrelative:frmmedianotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AB54DBA-EFA3-4682-8E1F-E13C19B63A25}|MediaNotas.csproj|c:\\users\\fkrf\\documents\\visual studio 2022\\repo\\medianotas\\frmmedianotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3AB54DBA-EFA3-4682-8E1F-E13C19B63A25}|MediaNotas.csproj|c:\\users\\fkrf\\documents\\visual studio 2022\\repo\\poo2\\medianotas\\frmmedianotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3AB54DBA-EFA3-4682-8E1F-E13C19B63A25}|MediaNotas.csproj|solutionrelative:frmmedianotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -23,26 +19,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FrmMediaNotas.cs",
-              "DocumentMoniker": "C:\\Users\\fkrf\\Documents\\Visual Studio 2022\\Repo\\MediaNotas\\FrmMediaNotas.cs",
-              "RelativeDocumentMoniker": "FrmMediaNotas.cs",
-              "ToolTip": "C:\\Users\\fkrf\\Documents\\Visual Studio 2022\\Repo\\MediaNotas\\FrmMediaNotas.cs",
-              "RelativeToolTip": "FrmMediaNotas.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwB0AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T23:31:28.806Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "FrmMediaNotas.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\fkrf\\Documents\\Visual Studio 2022\\Repo\\MediaNotas\\FrmMediaNotas.cs",
+              "DocumentMoniker": "C:\\Users\\fkrf\\Documents\\Visual Studio 2022\\Repo\\POO2\\MediaNotas\\FrmMediaNotas.cs",
               "RelativeDocumentMoniker": "FrmMediaNotas.cs",
-              "ToolTip": "C:\\Users\\fkrf\\Documents\\Visual Studio 2022\\Repo\\MediaNotas\\FrmMediaNotas.cs [Design]",
+              "ToolTip": "C:\\Users\\fkrf\\Documents\\Visual Studio 2022\\Repo\\POO2\\MediaNotas\\FrmMediaNotas.cs [Design]",
               "RelativeToolTip": "FrmMediaNotas.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T22:21:20.864Z",
+              "WhenOpened": "2025-02-21T03:57:24.297Z",
               "EditorCaption": " [Design]"
             }
           ]
