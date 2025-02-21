@@ -8,3 +8,13 @@ C:\Users\fkrf\source\repos\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.
 C:\Users\fkrf\source\repos\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.CoreCompileInputs.cache
 C:\Users\fkrf\source\repos\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
 C:\Users\fkrf\source\repos\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
+C:\Users\fkrf\Documents\Visual Studio 2022\Repo\POO2\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+C:\Users\fkrf\Documents\Visual Studio 2022\Repo\POO2\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+C:\Users\fkrf\Documents\Visual Studio 2022\Repo\POO2\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+C:\Users\fkrf\Documents\Visual Studio 2022\Repo\POO2\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.AssemblyReference.cache
+C:\Users\fkrf\Documents\Visual Studio 2022\Repo\POO2\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.FrmPrincipal.resources
+C:\Users\fkrf\Documents\Visual Studio 2022\Repo\POO2\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Properties.Resources.resources
+C:\Users\fkrf\Documents\Visual Studio 2022\Repo\POO2\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.GenerateResource.cache
+C:\Users\fkrf\Documents\Visual Studio 2022\Repo\POO2\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\fkrf\Documents\Visual Studio 2022\Repo\POO2\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+C:\Users\fkrf\Documents\Visual Studio 2022\Repo\POO2\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb

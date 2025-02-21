@@ -11,11 +11,11 @@ using System.Xml.Schema;
 
 namespace JogoDaVelha
 {
-    public partial class Form1 : Form
+    public partial class FrmPrincipal : Form
     {
         public int jogada;
         int fimDeJogo;
-        public Form1()
+        public FrmPrincipal()
         {
             InitializeComponent();
 

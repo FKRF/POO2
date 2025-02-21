@@ -1,6 +1,6 @@
 ﻿namespace JogoDaVelha
 {
-    partial class Form1
+    partial class FrmPrincipal
     {
         /// <summary>
         /// Required designer variable.
@@ -132,7 +132,7 @@
             this.LBoxLog.Size = new System.Drawing.Size(224, 251);
             this.LBoxLog.TabIndex = 10;
             // 
-            // Form1
+            // FrmPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -148,8 +148,8 @@
             this.Controls.Add(this.bt3);
             this.Controls.Add(this.bt2);
             this.Controls.Add(this.bt1);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "FrmPrincipal";
+            this.Text = "Jogo da Velha";
             this.ResumeLayout(false);
 
         }
